@@ -1,4 +1,4 @@
-## Fall-Detection-with-CNNs-and-Optical-Flow
+## Fall-Detection-with-CNN-and-Optical-Flow
 
 This repository contains the code for our paper:
 
