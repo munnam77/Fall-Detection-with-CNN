@@ -9,7 +9,7 @@ funcsigs==1.0.2
 futures==3.1.1
 h5py==2.6.0
 html5lib==0.9999999
-ipython==5.2.2
+ipython==7.16.3
 ipython-genutils==0.1.0
 Keras==1.2.0
 leveldb==0.194
